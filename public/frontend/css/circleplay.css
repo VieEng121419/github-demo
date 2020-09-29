@@ -1,0 +1,15 @@
+.note {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.circle-audio-player {
+  display: block;
+  margin: 0 auto;
+  cursor: pointer;
+}
+
+#playerContainer {
+  padding: 24px;
+}
+/*# sourceMappingURL=circleplay.css.map */
